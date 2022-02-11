@@ -1,5 +1,3 @@
-# myelofibrosis_project
-
 # PROJECT: SOMATIC VARIANTS IN MYELOFIBROSIS
 The objective of the project is to identify and demonstrate somatic variants related to the development of different myelofibrosis conditions in a group of adult patients, producing data that can help in the investigation and decision-making process in clinical practice.
 
