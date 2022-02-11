@@ -17,7 +17,7 @@ The objective of the project is to identify and demonstrate somatic variants rel
 -  30 files in vcf format
 - Excell table with information about sex, age, extracted material ..
 
-####Creating the somatic and reference directories
+#### Creating the somatic and reference directories
 ```bash
 mkdir /mnt/c/somatico
 mkdir /mnt/c/somatico/vcfs
